@@ -1,0 +1,11 @@
+{
+  "name": "apiAlbum",
+  "version": "1.0.0",
+  "description": "API for handling Photo Albums",
+  "main": "server.js",
+  "author": "Rory Downes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
